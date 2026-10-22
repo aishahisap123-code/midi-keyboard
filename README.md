@@ -30,12 +30,18 @@ Guide.md - project documentation and step-by-step workflow guide
 Firmware/ - Arduino IDE starter sketch and MIDI protocol configuration
 
 # BOM
-| Item | Qty | Supplier | Cost/item | Total Cost |link |
-| rotarty encoder | 2 | AliExpress | $3.00 | $6.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN |
-| Esp32 | 1 | AliExpress | $7.00 | $7.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN |
-| PCB | 1 | JLCPCB | $12.00 | $12.00 | https://cart.jlcpcb.com/quote/gerberviewThree/?qs=3a410d2cac3d46fea3ec63fe5a733f6f_1_0_2_0_0.html |
-| LEDs | 3 | AliExpress | $0.50 | $1.50 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN |
-| Sliders | 2 | AliExpress | $1.00 | $2.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN | 
-| Switches and key caps | 3 | ME | $0.20 | $0.60 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN |
-| Estimated total shipping | 1 ||| $0.00 |
+| Week | Tier | Parts funding |
+| --- | --- | --- |
+| Week 1 | Tier 1 | $30.00 |
 
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [ESP32-S3 Module](https://www.aliexpress.com/p/shoppingcart/index.html) | Main microcontroller core for processing and touch. | 1 | $7.00 | $7.00 | [AliExpress](https://www.aliexpress.com/) |
+| [Rotary Encoder](https://www.aliexpress.com/p/shoppingcart/index.html) | Digital parameter navigation and menu controls. | 2 | $3.00 | $6.00 | [AliExpress](https://www.aliexpress.com/) |
+| [Sliders](https://www.aliexpress.com/p/shoppingcart/index.html) | Analog slide potentiometers for CC adjustments. | 2 | $1.00 | $2.00 | [AliExpress](https://www.aliexpress.com/) |
+| [Switches and key caps](https://www.aliexpress.com/p/shoppingcart/index.html) | Tactile push buttons for mode selection. | 3 | $0.20 | $0.60 | [AliExpress](https://www.aliexpress.com/) |
+| [LEDs](https://www.aliexpress.com/p/shoppingcart/index.html) | Visual status indicators and feedback. | 3 | $0.50 | $1.50 | [AliExpress](https://www.aliexpress.com/) |
+| [PCB Board](https://cart.jlcpcb.com/quote/gerberviewThree/) | Custom touch keybed and control circuit board. | 1 | $12.00 | $12.00 | [JLCPCB](https://cart.jlcpcb.com/) |
+| **Parts subtotal** | — | — | — | **$29.10** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$29.10** | — |

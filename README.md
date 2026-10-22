@@ -30,12 +30,12 @@ Guide.md - project documentation and step-by-step workflow guide
 Firmware/ - Arduino IDE starter sketch and MIDI protocol configuration
 
 # BOM
-Item,Qty,Supplier,Cost/item,Total Cost,link
-rotarty encoder,2,AliExpress,$3.00,$6.00,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
-Esp32,1,AliExpress,$7.00,$7.00,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
-PCB,1,JLCPCB,$12.00,$12.00,https://cart.jlcpcb.com/quote/gerberviewThree/?qs=3a410d2cac3d46fea3ec63fe5a733f6f_1_0_2_0_0.html
-LEDs,3,AliExpress,$0.50,$1.50,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
-Sliders,2,AliExpress,$1.00,$2.00,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
-Switches and key caps,3,ME,$0.20,$0.60,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
-Estimated total shipping,1,,,$0.00,
+Item | Qty | Supplier | Cost/item | Total Cost |link
+rotarty encoder | 2 | AliExpress | $3.00 | $6.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
+Esp32 | 1 | AliExpress | $7.00 | $7.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
+PCB | 1 | JLCPCB | $12.00 | $12.00 | https://cart.jlcpcb.com/quote/gerberviewThree/?qs=3a410d2cac3d46fea3ec63fe5a733f6f_1_0_2_0_0.html
+LEDs | 3 | AliExpress | $0.50 | $1.50 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
+Sliders | 2 | AliExpress | $1.00 | $2.00 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
+Switches and key caps | 3 | ME | $0.20 | $0.60 | https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.home.header.1.25536278TZOpYN
+Estimated total shipping | 1 ||| $0.00?
 

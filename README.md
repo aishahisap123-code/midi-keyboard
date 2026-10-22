@@ -28,3 +28,5 @@ Renders/ - front and back PCB 3D renders
 Guide.md - project documentation and step-by-step workflow guide
 
 Firmware/ - Arduino IDE starter sketch and MIDI protocol configuration
+
+# BOM
